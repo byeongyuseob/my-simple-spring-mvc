@@ -1,0 +1,24 @@
+POST http://localhost:8080/users?userId=1&name=John
+
+<> 2022-09-29T063011.500.html
+
+###
+
+POST http://localhost:8080/users?userId=1&name=John
+
+<> 2022-09-29T062943.500.html
+
+###
+
+POST http://localhost:8080/users?userId=1&name=John
+
+<> 2022-09-29T062711.500.html
+
+###
+
+POST http://localhost:8080/users?userId=1&name=John
+
+<> 2022-09-29T062642.500.html
+
+###
+

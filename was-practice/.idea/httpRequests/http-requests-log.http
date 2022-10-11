@@ -1,0 +1,132 @@
+GET http://localhost:8080/calculate?operand1=10&operator=*&operand2=45
+Accept: application/json
+
+<> 2022-09-24T194418.200.json
+
+###
+
+GET http://localhost:8080/calculate?operand1=10&operator=-&operand2=45
+Accept: application/json
+
+<> 2022-09-24T194413.200.json
+
+###
+
+GET http://localhost:8080/calculate?operand1=10&operator= &operand2=45
+Accept: application/json
+
+<> 2022-09-24T194408.200.json
+
+###
+
+GET http://localhost:8080/calculate?operand1=10&operator= &operand2=45
+Accept: application/json
+
+<> 2022-09-24T194400.200.json
+
+###
+
+GET http://localhost:8080/calculate?operand1=10&operator= &operand2=45
+Accept: application/json
+
+<> 2022-09-24T194354.200.json
+
+###
+
+GET http://localhost:8080/calculate?operand1=10&operator=-&operand2=45
+Accept: application/json
+
+<> 2022-09-24T194347.200.json
+
+###
+
+GET http://localhost:8080/calculate?operand1=10&operator= &operand2=45
+Accept: application/json
+
+<> 2022-09-24T194342.200.json
+
+###
+
+GET http://localhost:8080/calculate?operand1=10&operator=-&operand2=45
+Accept: application/json
+
+<> 2022-09-24T194314.200.json
+
+###
+
+GET http://localhost:8080/calculate?operand1=10&operator= &operand2=45
+Accept: application/json
+
+<> 2022-09-24T194309.200.json
+
+###
+
+GET http://localhost:8080/calculate?operand1=10&operator=*&operand2=45
+Accept: application/json
+
+<> 2022-09-24T193637.200.json
+
+###
+
+GET http://localhost:8080/calculate?operand1=10&operator=-&operand2=45
+Accept: application/json
+
+<> 2022-09-24T193632.200.json
+
+###
+
+GET http://localhost:8080/calculate?operand1=10&operator= &operand2=45
+Accept: application/json
+
+<> 2022-09-24T193627.200.json
+
+###
+
+GET http://localhost:8080/calculate?operand1=10&operator= &operand2=45
+Accept: application/json
+
+<> 2022-09-24T193556.200.json
+
+###
+
+GET http://localhost:8080/calculate?operand1=10&operator=*&operand2=45
+Accept: application/json
+
+<> 2022-09-24T164208.200.json
+
+###
+
+GET http://localhost:8080/calculate?operand1=10&operator=-&operand2=45
+Accept: application/json
+
+<> 2022-09-24T164203.200.json
+
+###
+
+GET http://localhost:8080/calculate?operand1=10&operator= &operand2=45
+Accept: application/json
+
+<> 2022-09-24T164158.200.json
+
+###
+
+GET http://localhost:8080/calculate?operand1=10&operator=-&operand2=45
+Accept: application/json
+
+<> 2022-09-24T163910.200.json
+
+###
+
+GET http://localhost:8080/calculate?operand1=10&operator= &operand2=45
+Accept: application/json
+
+<> 2022-09-24T163904.200.json
+
+###
+
+GET http://localhost:8080/calculate?operand1=10&operator= &operand2=45
+
+<> 2022-09-24T163806.200.json
+
+###
+
